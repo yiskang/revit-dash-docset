@@ -1,0 +1,21 @@
+<entry>
+    <version>2021.1</version>
+    <url>https://www.yiskang.tw/revit-dash-docset/adsk-revit.tgz</url>
+    <other-versions>
+        <version>
+            <name>2021</name>
+        </version>
+        <version>
+            <name>2020</name>
+        </version>
+        <version>
+            <name>2019.2</name>
+        </version>
+        <version>
+            <name>2019.1</name>
+        </version>
+        <version>
+            <name>2019</name>
+        </version>
+    </other-versions>
+</entry>
