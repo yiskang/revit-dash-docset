@@ -1,0 +1,33 @@
+{
+    "name": "Autodesk Revit",
+    "version": "2021.1",
+    "archive": "adsk-revit.tgz",
+    "author": {
+        "name": "Eason Kang",
+        "link": "https://twitter.com/yiskang"
+    },
+    "aliases": ["revit", "autodesk revit", "revit api", "revit sdk"],
+
+    "specific_versions": [
+        { 
+            "version": "2021",
+            "archive": "versions/2021/adsk-revit.tgz"
+        },
+        { 
+            "version": "2020",
+            "archive": "versions/2020/adsk-revit.tgz"
+        },
+        { 
+            "version": "2019.2",
+            "archive": "versions/2019.2/adsk-revit.tgz"
+        },
+        { 
+            "version": "2019.1",
+            "archive": "versions/2019.1/adsk-revit.tgz"
+        },
+        { 
+            "version": "2019",
+            "archive": "versions/2019/adsk-revit.tgz"
+        }
+    ]
+}
