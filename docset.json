@@ -1,6 +1,6 @@
 {
     "name": "Autodesk Revit",
-    "version": "2021.1",
+    "version": "2022",
     "archive": "adsk-revit.tgz",
     "author": {
         "name": "Eason Kang",
@@ -9,6 +9,10 @@
     "aliases": ["revit", "autodesk revit", "revit api", "revit sdk"],
 
     "specific_versions": [
+        { 
+            "version": "2021.1",
+            "archive": "versions/2021.1/adsk-revit.tgz"
+        },
         { 
             "version": "2021",
             "archive": "versions/2021/adsk-revit.tgz"

@@ -1,7 +1,10 @@
 <entry>
-    <version>2021.1</version>
+    <version>2022</version>
     <url>https://www.yiskang.tw/revit-dash-docset/adsk-revit.tgz</url>
     <other-versions>
+        <version>
+            <name>2021.1</name>
+        </version>
         <version>
             <name>2021</name>
         </version>
